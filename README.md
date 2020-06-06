@@ -1,4 +1,5 @@
-# autoit
+# autoit Scripts
+# Developed by B.Vignesh Kumar
 Autoit Snippets
 
 1. check_server_alive.au3 - Checks if the server is alive.
