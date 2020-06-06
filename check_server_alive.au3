@@ -1,3 +1,5 @@
+; Developed by B.Vignesh Kumar <vigneshkumarb@bravetux.com>
+;
 Func CheckAlive($host, $method = "ping", $port = False, $query = "HEAD / HTTP/1.0")
 	Local $ping
 	Switch $method
